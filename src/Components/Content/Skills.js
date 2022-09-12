@@ -16,6 +16,11 @@ const skillsData1 = [
     name: "JS",
     styleName: "js",
   },
+  {
+    id: 4,
+    name: "BOOTSTRAP",
+    styleName: "bootstrap"
+  },
  
 ];
 
@@ -27,8 +32,8 @@ const skillsData2 = [
   },
   {
     id: 2,
-    name: "Node",
-    styleName: "node",
+    name: "Express",
+    styleName: "express",
   },
   {
     id: 3,

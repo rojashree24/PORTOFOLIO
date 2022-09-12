@@ -8,7 +8,7 @@ import { SiFreelancer } from "react-icons/si";
 import { Link } from "react-scroll";
 
 import classes from '../Header/Sidebar.module.css'
-import photo from "../../Assets/photo.jpg";
+import photo from "../../Assets/logo.jpg";
 
 import "./MobileSideBar.css";
 

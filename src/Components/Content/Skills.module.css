@@ -58,31 +58,31 @@
 }
 
 .progress-line.css span {
-    width: 70%;
+    width: 65%;
 }
 
 .progress-line.js span {
-    width: 85%;
+    width: 65%;
 }
 
-.progress-line.python span {
+/* .progress-line.python span {
     width: 50%;
-}
+} */
 
 .progress-line.mongo span {
-    width: 80%;
+    width: 30%;
 }
 
-.progress-line.node span {
-    width: 85%;
+.progress-line.express span {
+    width: 30%;
 }
 
 .progress-line.react span {
-    width: 85%;
+    width: 20%;
 }
 
-.progress-line.nextJS span {
-    width: 70%;
+.progress-line.bootstrap span {
+    width: 50%;
 }
 
 .progress-line span::before {
@@ -126,31 +126,35 @@
 }
 
 .progress-line.css span::after {
-    content: "70%";
+    content: "65%";
 }
 
 .progress-line.js span::after {
-    content: "85%";
+    content: "65%";
 }
 
-.progress-line.python span::after {
+/* .progress-line.python span::after {
     content: "50%";
+} */
+
+.progress-line.mongo span::after {
+    content: "30%";
+}
+
+.progress-line.express span::after {
+    content: "30%";
 }
 
 .progress-line.mongo span::after {
-    content: "80%";
-}
-
-.progress-line.node span::after {
-    content: "85%";
+    content: "30%";
 }
 
 .progress-line.react span::after {
-    content: "85%";
+    content: "20%";
 }
 
-.progress-line.nextJS span::after {
-    content: "70%";
+.progress-line.bootstrap span::after {
+    content: "50%";
 }
 
 

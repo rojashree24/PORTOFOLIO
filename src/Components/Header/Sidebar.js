@@ -4,7 +4,7 @@ import { SiFreelancer } from "react-icons/si";
 import { Link } from "react-scroll";
 
 import classes from "./Sidebar.module.css";
-import photo from "../../Assets/photo.jpg";
+import photo from "../../Assets/logo.jpg";
 
 const icons = [
   {
@@ -47,7 +47,7 @@ const Navbar = () => {
         <header className={classes.header}>
           <img src={photo} alt="my profile " />
 
-          <div className={classes.name}>Ahamed Hussain</div>
+          <div className={classes.name}>Rojashree</div>
           <div className={classes.socialIcons}>
             
             <a href="https://github.com/rojashree24" target="_blank" rel="noreferrer">
