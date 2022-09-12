@@ -21,6 +21,11 @@ const skillsData1 = [
     name: "BOOTSTRAP",
     styleName: "bootstrap"
   },
+  {
+    id: 4,
+    name: "GIT & GITHUB",
+    styleName: "github"
+  }
  
 ];
 

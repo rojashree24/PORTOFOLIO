@@ -1,8 +1,8 @@
 import classes from "./Projects.module.css";
 
-import groceryImg from "../../../Assets/arProject.png";
-import socialImg from "../../../Assets/social1.png";
-import campImg from "../../../Assets/yelpcamp.png";
+import groceryImg from "../../../Assets/todo.jpeg";
+import socialImg from "../../../Assets/newsletter.jpg";
+import campImg from "../../../Assets/music.jpeg";
 // import groceryImg from "../../../Assets/grocery.png";
 // import socialImg from "../../../Assets/socialmedia.png";
 // import campImg from "../../../Assets/camp2.png";
@@ -23,15 +23,18 @@ const Projects = () => {
           </div>
           <div data-aos="fade-left"> 
             <p style={{ paddingLeft: "20px" }}>
-               A customer Can order a product{" "}
+               {/* A customer Can order a product{" "}
               and Only admins can create, edit , delete the products and
-               check the customer ordered products.{" "}
+               check the customer ordered products.{" "} */}
+               This is just a simple To Do List.
+               Every person has got his or her to-do list.
+In the to-do list, you can properly arrange your daily life schedule. If not so, you can note down your list of goals to attain in a year or so. I have included Database.
               <a
-                href="https://ar-traders-adirai.herokuapp.com/"
+                href="https://todolistagenda.herokuapp.com/"
                 target="_blank"
                 rel="noreferrer"
               >
-                https://ar-traders-adirai.herokuapp.com/
+                https://todolistagenda.herokuapp.com/
               </a>
             </p>
           </div>
@@ -39,15 +42,13 @@ const Projects = () => {
         <div className={classes.projectItem2}>
           <div data-aos="fade-right">
             <p style={{ paddingRight: "20px" }}>
-              A User can create, like, delete ,comment a post and follow and
-              unfollow a users and receive the notfication live, chat with live with help of socket.io api and
-              also admin can delete anyone's post <br />{" "}
+              This is a newsletter sign up form built using pure Express js. Thorugh this sign up form we can able to find who are all trying to sign up in mailchimp. Basically Mailchimp is an all-in-one marketing platform that helps you manage and talk to your clients, customers, and other interested parties.  <br />{" "}
               <a
-                href="https://social-media-app-adirai.herokuapp.com/"
+                href="https://newslettersignup-application.herokuapp.com/"
                 target="_blank"
                 rel="noreferrer"
               >
-                https://social-media-app-adirai.herokuapp.com/
+                https://newslettersignup-application.herokuapp.com/
               </a>
             </p>
           </div>
@@ -61,9 +62,8 @@ const Projects = () => {
           </div>
           <div data-aos="fade-left">
             <p style={{ paddingLeft: "20px" }}>
-              A user can create campgrounds with location of map , edit , delete
-              and review the campgrounds <a rel="noreferrer" href="https://yelpcamp-adirai.herokuapp.com/" target="_blank">
-            https://yelpcamp-adirai.herokuapp.com/
+              Android smartphones comes with a default music player to play music. Then what is the requirement of an alternate music player?.Here i created a pure JAVASCRIPT Music Application. This is general music player where we can able to hear our favourite songs in lopp mode. <a rel="noreferrer" href="https://rojashree24.github.io/Music_Application/" target="_blank">
+            https://rojashree24.github.io/Music_Application/
           </a>
             </p>
           </div>

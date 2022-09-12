@@ -65,6 +65,10 @@
     width: 65%;
 }
 
+.progress-line.github span {
+    width: 65%;
+}
+
 /* .progress-line.python span {
     width: 50%;
 } */
@@ -131,6 +135,10 @@
 
 .progress-line.js span::after {
     content: "65%";
+}
+
+.progress-line.github span::after {
+    content: "50%";
 }
 
 /* .progress-line.python span::after {
