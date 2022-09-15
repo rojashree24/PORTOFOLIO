@@ -4,7 +4,7 @@ import { SiFreelancer } from "react-icons/si";
 import { Link } from "react-scroll";
 
 import classes from "./Sidebar.module.css";
-import photo from "../../Assets/logo.jpg";
+import photo from "../../Assets/photo.jpeg";
 
 const icons = [
   {
