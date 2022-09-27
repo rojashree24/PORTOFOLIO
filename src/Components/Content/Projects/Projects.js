@@ -42,7 +42,7 @@ In the to-do list, you can properly arrange your daily life schedule. If not so,
         <div className={classes.projectItem2}>
           <div data-aos="fade-right">
             <p style={{ paddingRight: "20px" }}>
-              This is a newsletter sign up form built using pure Express js. Thorugh this sign up form we can able to find who are all trying to sign up in mailchimp. Basically Mailchimp is an all-in-one marketing platform that helps you manage and talk to your clients, customers, and other interested parties.  <br />{" "}
+              This is a newsletter sign up form built using pure Express js. Through this sign up form we can able to find who are all trying to sign up in mailchimp. Basically Mailchimp is an all-in-one marketing platform that helps you manage and talk to your clients, customers, and other interested parties.  <br />{" "}
               <a
                 href="https://newslettersignup-application.herokuapp.com/"
                 target="_blank"
