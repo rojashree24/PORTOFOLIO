@@ -53,7 +53,7 @@ const Contact = () => {
               <a
                 style={{ textDecoration: "none", color: "#000" }}
                 className={classes.contactText}
-                href="https://www.linkedin.com/in/rojashree-vijay-766b0920a"
+                href="https://www.linkedin.com/in/rojashree-vijay-b4813a20b/"
                 target="_blank"
                 rel="noreferrer"
               >
