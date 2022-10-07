@@ -57,7 +57,7 @@ const Contact = () => {
                 target="_blank"
                 rel="noreferrer"
               >
-                https://www.linkedin.com/in/rojashree-v-766b0920a
+               https://www.linkedin.com/in/rojashree-vijay-b4813a20b/
               </a>
             </div>
           </div>
