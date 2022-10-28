@@ -17,12 +17,12 @@ const educationsDetails1 = [
     destination: "John Dewey Hr.Sec.School",
     native: "Panruti-607106",
   },
-  // {
-  //   id: 2,
-  //   name: "Python Bootcamp",
-  //   duration: "6 months",
-  //   destination: "Online(udemy)",
-  // },
+  {
+    id: 2,
+    name: "The Complete Web Development Bootcamp",
+    duration: "3 months",
+    destination: "Online(udemy)",
+  },
   // {
   //   id: 3,
   //   name: "React Bootcamp",
@@ -38,12 +38,12 @@ const educationsDetails2 = [
     destination: "St.Joesph's College of engineering",
     native: "OMR,Chennai",
   },
-  // {
-  //   id: 5,
-  //   name: "Full stack Dev",
-  //   duration: "2020-2021",
-  //   destination: "Online(udemy)",
-  // },
+  {
+    id: 5,
+    name: "Inplant Training - Web Development ",
+    duration: "1 Week",
+    destination: "CodeBind Technology",
+  },
   // {
   //   id: 6,
   //   name: "MERN stack",

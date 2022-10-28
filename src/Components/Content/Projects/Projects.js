@@ -3,6 +3,7 @@ import classes from "./Projects.module.css";
 import groceryImg from "../../../Assets/todo.jpeg";
 import socialImg from "../../../Assets/newsletter.jpg";
 import campImg from "../../../Assets/music.jpeg";
+import notesImage from "../../../Assets/notesImage.jpg";
 // import groceryImg from "../../../Assets/grocery.png";
 // import socialImg from "../../../Assets/socialmedia.png";
 // import campImg from "../../../Assets/camp2.png";
@@ -58,16 +59,19 @@ In the to-do list, you can properly arrange your daily life schedule. If not so,
         </div>
         <div className={classes.projectItem3} data-aos="fade-right">
           <div>
-            <img src={campImg} alt="grocery3" />
+            <img src={notesImage} alt="grocery3" />
           </div>
           <div data-aos="fade-left">
             <p style={{ paddingLeft: "20px" }}>
-              Android smartphones comes with a default music player to play music. Then what is the requirement of an alternate music player?.Here i created a pure JAVASCRIPT Music Application. This is general music player where we can able to hear our favourite songs in lopp mode. <a rel="noreferrer" href="https://rojashree24.github.io/Music_Application/" target="_blank">
-            https://rojashree24.github.io/Music_Application/
+              In this application , we can write a note whatever we want like to perform anything or remainder of important events like various stuffs , and we can also delete that notes.I created it with React.js <a rel="noreferrer" href="https://notesgetter.netlify.app/" target="_blank">
+            https://notesgetter.netlify.app/
           </a>
             </p>
           </div>
         </div>
+
+        
+
       </div>
 
     </>
