@@ -8,7 +8,7 @@ import { SiFreelancer } from "react-icons/si";
 import { Link } from "react-scroll";
 
 import classes from '../Header/Sidebar.module.css'
-import photo from "../../Assets/logo.jpg";
+import photo from "../../Assets/rs.png";
 
 import "./MobileSideBar.css";
 
@@ -66,15 +66,8 @@ const MobileSideBar = () => {
         <header className={classes.header}>
           <img src={photo} alt="myface" />
 
-          <div className={classes.name}>Ahamed Hussain</div>
+          <div className={classes.name}>Rojashree</div>
           <div className={classes.socialIcons}>
-            <a
-              href="https://www.instagram.com/hussain_yeager/"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <FaIcon.FaInstagram />
-            </a>
             <a
               href="https://github.com/rojashree24"
               target="_blank"
@@ -83,7 +76,7 @@ const MobileSideBar = () => {
               <FaIcon.FaGithub />
             </a>
             <a
-              href="https://www.linkedin.com/in/rojashree-v-766b0920a"
+              href="https://www.linkedin.com/in/rojashree-vijay-b4813a20b/"
               target="_blank"
               rel="noreferrer"
             >

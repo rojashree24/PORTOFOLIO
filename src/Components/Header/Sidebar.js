@@ -53,7 +53,7 @@ const Navbar = () => {
             <a href="https://github.com/rojashree24" target="_blank" rel="noreferrer">
               <FaIcon.FaGithub />
             </a>
-            <a href="https://www.linkedin.com/in/rojashree-v-766b0920a" target="_blank" rel="noreferrer">
+            <a href="https://www.linkedin.com/in/rojashree-vijay-b4813a20b/" target="_blank" rel="noreferrer">
               <FaIcon.FaLinkedin />
             </a>
            
