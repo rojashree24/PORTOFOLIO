@@ -44,12 +44,12 @@ const educationsDetails2 = [
     duration: "1 Week",
     destination: "CodeBind Technology",
   },
-  // {
-  //   id: 6,
-  //   name: "MERN stack",
-  //   duration: "2 months",
-  //   destination: "Online(udemy)",
-  // },
+  {
+    id: 6,
+    name: "Full Stack Developer [Internship]",
+    duration: "2 months",
+    destination: "Solar Secure Solutions",
+  },
 ];
 
 const Intro = () => {
@@ -59,10 +59,8 @@ const Intro = () => {
         <h2>About</h2>
 
         <p>
-          Self-motivated team player with year of experience seeking a position
-          as a lead web developer with Next Generation Web Development where I
-          can apply my advanced knowledge of web design with my leadership
-          abilities to meet client needs and exceed their expectations
+          Self-motivated team player seeking a position
+          as a lead web developer with Next Generation Web Development
         </p>
         <div className={classes.photoAndBio}>
           <div data-aos="fade-right">

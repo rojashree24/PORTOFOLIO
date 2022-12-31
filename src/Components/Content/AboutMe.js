@@ -12,9 +12,9 @@ const AboutMe = () => {
             <Typical
               loop={Infinity}
               steps={[
-                "Full Stack Developer",
-                4000,
-                "MERN Stack Dev",
+                // "Full Stack Developer",
+                // 4000,
+                "ASPIRING MERN Stack Developer",
                 4000,
                 // "React Dev",
                 // 4000,

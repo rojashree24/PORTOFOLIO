@@ -54,8 +54,7 @@ const Skills = () => {
       <h2 id="skills">Skills</h2>
       <p>
         I learned lot of skills and also practise that more and make some
-        projects , In below I hope you like my projects . I spend more than 5000
-        hours coding , I love to create a new Things and also learn New things
+        projects , In below I hope you like my projects. I love to create a new Things and also learn New things
       </p>
       <div className={classes["skills-bar"]}>
         <div className={classes.skillsRow1} data-aos="fade-right">
